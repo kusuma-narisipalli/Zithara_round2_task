@@ -1,5 +1,7 @@
 React and Node.js Assignment
-Assignment Description
+
+
+
 This assignment aims to create a full-stack application using React for the frontend and Node.js with Express and PostgreSQL for the backend. The assignment requirements are as follows:
 
 (1) Backend (Node.js with Express and PostgreSQL):
